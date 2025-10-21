@@ -13,7 +13,7 @@ DLは、深層学習の基礎的なワークフローを証明するためのコ
 ## 🚀 セットアップ方法
 1. **リポジトリのクローン**
     ```bash
-　　git clone<https://github.com/kmtkzy1379/portfolio3-DL.git>
+    git clone<https://github.com/kmtkzy1379/portfolio3-DL.git>
     cd portfolio3-DL
     ```
 
