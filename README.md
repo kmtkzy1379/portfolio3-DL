@@ -20,7 +20,7 @@ DLは、深層学習の基礎的なワークフローを証明するためのコ
 2. **仮想環境の作成とアクティベート**
     ```bash
     python -m venv venv
-    evenv\Scripts\activate
+    venv\Scripts\activate
     ```
 
 3. **依存関係のインストール**
